@@ -1,11 +1,13 @@
 # Busuu front end test
 
+PLEASE DO NOT FORK THIS REPOSITORY. git clone, and send us completed test
+
 In Busuu we use grunt for automating all front end build tasks, Sass with Compass for generating CSS.
 In this simplified test we use LessCSS to help generate CSS quickly.  
 
 We would like you to implement a very simple vocabulary game.  
 The technology is AngularJS, Bootstrap and LessCSS on front end, with NodeJS communication endpoint on backend.
-  
+
 ### App
 
 You will find 11 words with keyphrases and spanish translation hardcoded in words AngularJS value in *public/js/services.js*.  
@@ -32,7 +34,7 @@ then go to [http://localhost:3000](http://localhost:3000)
 
 ### Test
 
-To begin the test, please fork this github repository, and start coding. Use your local git repository, and commit any changes you make. After you finish your test, please send it to [filip@busuu.com](filip@busuu.com).  
+To begin the test, please clone this github repository, and start coding. Use your local git repository, and commit any changes you make. After you finish your test, please send it to [filip@busuu.com](filip@busuu.com). PLEASE DO NOT FORK THIS REPOSITORY.  
 The suggested time for this test is 1 hour, but you are welcome to do it longer. This is not a time trial, and we don't expect you to finish all tasks. We would like to see your code though.
 
 In Busuu we value productivity and code quality. Your code will be assessed on:   
