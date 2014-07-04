@@ -41,7 +41,6 @@ In Busuu we value productivity and code quality. Your code will be assessed on:
 - clean app structure (you are welcome to change files organisation)  
 - code formatting and naming  
 - object-oriented design and implementation
-- performance
 - proper use of components (controllers, directives)
 
 In particular for this test you can ignore:  
@@ -52,6 +51,8 @@ If you apply to senior position, we'd like to see also:
 - Unit tests (we suggest Karma)  
 - Add timing to game
 - Correct OO architecture (directives, controllers, services)
+- Performance
+- Comments on performance and architecture decisions
 
 
 ## Directory Layout
