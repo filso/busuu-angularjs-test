@@ -41,20 +41,17 @@ In Busuu we value productivity and code quality. Your code will be assessed on:
 - clean app structure (you are welcome to change files organisation)  
 - code formatting and naming  
 - object-oriented design and implementation
+- performance
+- proper use of components (controllers, directives)
 
 In particular for this test you can ignore:  
-- How the app looks. -W
-e included Bootstrap to make development process faster  
-- Performance-W
-e do optimise our apps, but productivity 
-takes priority
+- How the app looks. We included Bootstrap to make development process faster  
 
-##### Additional tasks
-The above app is the test
-, but if you you'd like to take your test one step further, you could add one of the following to the app:  
-- U
-nit tests (we suggest you use Karma and Jasmine, but any framework will do)  
+##### Senior position tasks
+If you apply to senior position, we'd like to see also:
+- Unit tests (we suggest Karma)  
 - Add timing to game
+- Correct OO architecture (directives, controllers, services)
 
 
 ## Directory Layout
