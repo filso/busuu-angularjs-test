@@ -35,7 +35,7 @@ then go to [http://localhost:3000](http://localhost:3000)
 ### Test
 
 To begin the test, please clone this github repository, and start coding. Use your local git repository, and commit any changes you make. After you finish your test, please send it to [filip@busuu.com](filip@busuu.com). PLEASE DO NOT FORK THIS REPOSITORY.  
-The suggested time for this test is 1 hour, but you are welcome to do it longer. This is not a time trial, and we don't expect you to finish all tasks. We would like to see your code though.
+The suggested time for this test is 90 minuteshour, but you are welcome to do it longer.
 
 In Busuu we value productivity and code quality. Your code will be assessed on:   
 - clean app structure (you are welcome to change files organisation)  
